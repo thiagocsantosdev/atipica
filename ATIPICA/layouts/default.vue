@@ -1,0 +1,3 @@
+<template>
+  <HeaderCustom></HeaderCustom>
+</template>
